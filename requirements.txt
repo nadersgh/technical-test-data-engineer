@@ -3,3 +3,9 @@ fastapi
 uvicorn
 fastapi_pagination
 pytest
+# dependencies for the data ingestion pipeline
+dagster
+dagit
+dagster-postgres
+requests
+pandas
